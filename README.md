@@ -27,7 +27,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ### Cronograma do Curso:
 
-Início: 11/08/2020 
+Início: 10/08/2020 
 
 Término: 
 
