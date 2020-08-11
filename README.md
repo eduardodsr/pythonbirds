@@ -5,7 +5,11 @@ Python Birds
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
-![](https://media-exp1.licdn.com/dms/image/C4D1BAQHt0S4w1a1aJA/company-background_10000/0?e=2159024400&v=beta&t=2S3B1FB5pO_kQC_BH4G2zYr7tyG9OgkcEtyyu4qVYyk)
+
+<p align="center">
+  <img src=https://media-exp1.licdn.com/dms/image/C4D1BAQHt0S4w1a1aJA/company-background_10000/0?e=1597212000&v=beta&t=7B2BqzBy2yJDI3U8fTY225BFC5xc-GRswWTwzm-Z26A)" />
+</p>
+
 
 
 ### Projeto em Andamento: 
