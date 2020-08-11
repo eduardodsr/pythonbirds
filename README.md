@@ -11,18 +11,25 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ### Projeto em Andamento: 
 
-- Ensino de Programação Orientadas a Objetos em Python 
+- Projeto Python Birds. Ensino de Programação Orientadas a Objetos em Python. 
 
-- Aluno do curso de Python Pro do Prof. Renzo (2020).
+- Aluno do curso de Python Pro do Professor Renzo (2020).
 
 
 ### Objetivo do Projeto:
 
-- Controle de Atividades de Eduardo da Silva Rodrigues (edsr.dev) do Curso de Pynthon do Prof. Renzo.
+- Controle de Atividades de Eduardo da Silva Rodrigues.
 
 - Desenvolvida uma versão simplificada do jogo Angry Birds. 
 
 ✔️ Checklist de controle de atividades concluídas do curso de Python Pro.
+
+
+### Cronograma do Curso:
+
+Início: 11/08/2020 
+
+Término: 
 
 
 ### Conteúdo (Meu andamento do Curso):
