@@ -1,65 +1,59 @@
 Python Birds
 ===========
 
-Essa versão é a mais simples. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
-
-Para versão mais complexa, acesse a branch [diversao](https://github.com/pythonprobr/pythonbirds/tree/diversao)
-
-Projeto para Ensino de Programação Orientadas a Objetos em Python.
-
-A versão utilizada para desenvolvimento foi Python 3.4
-
-Um vídeo fala mais que 1000 palavras: [Python Birds](https://www.youtube.com/watch?v=b899h0lNd7U&list=PLA05yVJtRWYTm0sIa6n56UpCjCsR5ekla)
-
-
-
-
-### Divirta-se!!!!
+### Fonte do Projeto Original:
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
-# Observação Importante
+### Projeto de Eduardo da Silva RodriguesRepositório para Praticar as Atividades do Curso de Pynthon
 
-Esse projeto usa somente o interpretador padrão do Python. Para fazer jogos com mais interatividade, existe a biblioteca Pygame. Ela não foi utilizada por motivos de simplicidade, para evitar que o aluno iniciante tenha dificuldades na hora de instalar o projeto.
+### Objetivo
 
-Contudo o Estevão Fonseca fez um versão com essa biblioteca, confira o projeto:
+[TOC]
+#Introduzir programação Procedural e Orientação a Objetos em Python. 
 
-<https://github.com/estevaofon/angry-birds-python>
+### Descrição
 
-Ele também colocou esse [vídeo no Youtube](https://www.youtube.com/watch?v=B7G5JtCFepE). 
-
-
-## Conteúdo:
+[TOC]
+#Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Birds. Assim o aluno aprenderá os conceitos ao mesmo tempo em que implementa um projeto prático.
 
 
-#### Ordered list
+# Projeto em Andamento: 
+
+- Ensino de Programação Orientadas a Objetos em Python 
+
+- Cusando o curso de Python Pro do Prof. Renzo (2020).
+
+
+#### Conteúdo (Meu andamento do Curso):
+
 ## 1.	Programação Procedural
 
-### 1.1.	Introdução
+### 1.1.	Introdução ✔️ 
 
-1.1.1.	Motivação - [x] 
+1.1.1.	Motivação ✔️ 
 
-1.1.2.	Instalação Windows - [x] 
+1.1.2.	Instalação Windows ✔️ 
 
-1.1.3.	Instalação Ubuntu - [x] 
+1.1.3.	Instalação Ubuntu ✔️ 
 
-1.1.4.	Instalação Mac - [x] 
+1.1.4.	Instalação Mac ✔️  
 
-1.1.5.	Console Interativo - [x] 
+1.1.5.	Console Interativo ✔️ 
 
-1.1.6.	Pycharm IDE - [x] 
+1.1.6.	Pycharm IDE ✔️ 
 
-### 1.2.	Tipos Básicos
+### 1.2.	Tipos Básicos ✔️ 
 
-1.2.1.	Tipo Inteiro
+1.2.1.	Tipo Inteiro ✔️ 
 
-1.2.2.	Tipo Float
+1.2.2.	Tipo Float ✔️ 
 
-1.2.3.	Variável e Atribuição
+1.2.3.	Variável e Atribuição ✔️ 
 
-1.2.4.	Tipo Booleano
+1.2.4.	Tipo Booleano ✔️ 
 
-1.2.5.	Desvios Condicionais
+1.2.5.	Desvios Condicionais ✔️ 
 
 ### 1.3.	Containers e Iteração
 
