@@ -5,7 +5,11 @@ Python Birds
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
-### Projeto de Eduardo da Silva RodriguesRepositório para Praticar as Atividades do Curso de Pynthon
+### Projeto de Andamento: 
+
+Desenvolvimento para acompanhar o meu desenvolvimento no curso. 
+
+Controle de Atividades de Eduardo da Silva Rodrigues do Curso de Pynthon.
 
 ### Objetivo
 
