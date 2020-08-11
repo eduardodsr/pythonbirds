@@ -11,24 +11,7 @@ A versão utilizada para desenvolvimento foi Python 3.4
 
 Um vídeo fala mais que 1000 palavras: [Python Birds](https://www.youtube.com/watch?v=b899h0lNd7U&list=PLA05yVJtRWYTm0sIa6n56UpCjCsR5ekla)
 
-# Contribuidores
 
-* [Giovane Liberato](https://github.com/giovaneliberato)
-* [Guido Luz](https://github.com/GuidoBR)
-* [Michel Amaral](https://github.com/michelamaral)
-* [Renzo Nuccitelli](https://github.com/renzon)
-
-# Abordagem
-
-Instalar [Python 3](https://www.python.org/download/).
-
-Baixar o zip do projeto (botão Download Zip) 
-
-Os testes se encontram dentro do pacote "testes" e servem para definir a dinâmica das classes. Para rodar todos testes, execute:
-
-    python executor_de_testes.py
-    
-Explicação detalhada sobre classes e métodos se encontram nos scripts atores.py e fase.py.
 
 
 ### Divirta-se!!!!
@@ -46,22 +29,13 @@ Contudo o Estevão Fonseca fez um versão com essa biblioteca, confira o projeto
 Ele também colocou esse [vídeo no Youtube](https://www.youtube.com/watch?v=B7G5JtCFepE). 
 
 
-## Python Birds
+## Conteúdo:
 
-### Objetivo
-•	Introduzir programação Procedural e Orientação a Objetos em Python.
 
-### Público
-•	Alunos com nenhuma ou pouca experiência.
+#### Ordered list
+## 1.	Programação Procedural
 
-### Descrição
-•	Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Birds. Assim o aluno aprenderá os conceitos ao mesmo tempo em que implementa um projeto prático.
-Conteúdo
-
-####Ordered list
-## 1.	Programação Procedural - [x] 
-
-### 1.1.	Introdução - [x] 
+### 1.1.	Introdução
 
 1.1.1.	Motivação - [x] 
 
