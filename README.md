@@ -5,12 +5,14 @@ Python Birds
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
+![](https://media-exp1.licdn.com/dms/image/C4D1BAQHt0S4w1a1aJA/company-background_10000/0?e=2159024400&v=beta&t=2S3B1FB5pO_kQC_BH4G2zYr7tyG9OgkcEtyyu4qVYyk)
+
 
 ### Projeto em Andamento: 
 
 - Ensino de Programação Orientadas a Objetos em Python 
 
-- Cusando o curso de Python Pro do Prof. Renzo (2020).
+- Aluno do curso de Python Pro do Prof. Renzo (2020).
 
 
 ### Objetivo do Projeto:
