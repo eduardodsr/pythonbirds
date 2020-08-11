@@ -7,7 +7,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 
 <p align="center">
-  <img src=https://media-exp1.licdn.com/dms/image/C4D1BAQHt0S4w1a1aJA/company-background_10000/0?e=1597212000&v=beta&t=7B2BqzBy2yJDI3U8fTY225BFC5xc-GRswWTwzm-Z26A)" />
+  <img src=https://github.com/eduardodsr/pythonbirds/blob/simples/logo.jpeg)" />
 </p>
 
 
