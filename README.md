@@ -18,9 +18,9 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ### Objetivo do Projeto:
 
-- Controle de Atividades de Eduardo da Silva Rodrigues.
+- Acompanhamento das atividades de Eduardo da Silva Rodrigues.
 
-- Desenvolvida uma versão simplificada do jogo Angry Birds. 
+- Desenvolvider uma versão simplificada do jogo Angry Birds. 
 
 ✔️ Checklist de controle de atividades concluídas do curso de Python Pro.
 
@@ -32,7 +32,7 @@ Início: 11/08/2020
 Término: 
 
 
-### Conteúdo (Meu andamento do Curso):
+### Conteúdo (Meu andamento do Curso de Python):
 
 
 ## 1.	Programação Procedural
