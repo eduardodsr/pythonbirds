@@ -58,22 +58,24 @@ Ele também colocou esse [vídeo no Youtube](https://www.youtube.com/watch?v=B7G
 •	Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Birds. Assim o aluno aprenderá os conceitos ao mesmo tempo em que implementa um projeto prático.
 Conteúdo
 
-#### Ordered list
-1.	Programação Procedural
-1.1.	Introdução
-1.1.1.	Motivação
+####Ordered list
+## 1.	Programação Procedural - [x] 
 
-1.1.2.	Instalação Windows
+### 1.1.	Introdução - [x] 
 
-1.1.3.	Instalação Ubuntu
+1.1.1.	Motivação - [x] 
 
-1.1.4.	Instalação Mac
+1.1.2.	Instalação Windows - [x] 
 
-1.1.5.	Console Interativo
+1.1.3.	Instalação Ubuntu - [x] 
 
-1.1.6.	Pycharm IDE
+1.1.4.	Instalação Mac - [x] 
 
-1.2.	Tipos Básicos
+1.1.5.	Console Interativo - [x] 
+
+1.1.6.	Pycharm IDE - [x] 
+
+### 1.2.	Tipos Básicos
 
 1.2.1.	Tipo Inteiro
 
@@ -85,7 +87,7 @@ Conteúdo
 
 1.2.5.	Desvios Condicionais
 
-1.3.	Containers e Iteração
+### 1.3.	Containers e Iteração
 
 1.3.1.	String, Dir e Help
 
@@ -103,7 +105,7 @@ Conteúdo
 
 1.3.8.	Iteração em Dicionário
 
-1.4.	Modularização
+### 1.4.	Modularização
 
 1.4.1.	Função e PEP 8
 
@@ -127,9 +129,9 @@ Conteúdo
 
 1.4.11.	Retrospectiva: Paradigma Procedural
 
-2.	Orientação a Objetos
+## 2.	Orientação a Objetos
 
-2.1.	Classe e Composição
+### 2.1.	Classe e Composição
 
 2.1.1.	Git no Windows
 
@@ -167,7 +169,7 @@ Conteúdo
 
 2.1.18.	Fase e Atores
 
-2.2.	Herança
+### 2.2.	Herança
 
 2.2.1.	Herança Simples
 
