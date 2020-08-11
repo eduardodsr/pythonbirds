@@ -6,10 +6,7 @@ Python Birds
 Powered by [Python Pro](http://adm.python.pro.br)
 
 
-<p align="center">
-  <img src=https://https://github.com/eduardodsr/pythonbirds/blob/simples/logo.jpeg)" />
-</p>
-
+![](https://https://github.com/eduardodsr/pythonbirds/blob/simples/logo.jpeg)
 
 
 ### Projeto em Andamento: 
