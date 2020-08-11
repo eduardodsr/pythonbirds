@@ -1,12 +1,12 @@
 Python Birds
 ===========
 
-## Fonte do Projeto Original:
+### Fonte do Projeto Original:
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
 
-## Projeto em Andamento: 
+### Projeto em Andamento: 
 
 - Ensino de Programação Orientadas a Objetos em Python 
 
@@ -15,14 +15,14 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ### Objetivo do Projeto:
 
-- Controle de Atividades de Eduardo da Silva Rodrigues (edsr.dev) do Curso de Pynthon.
+- Controle de Atividades de Eduardo da Silva Rodrigues (edsr.dev) do Curso de Pynthon do Prof. Renzo.
 
 - Desenvolvida uma versão simplificada do jogo Angry Birds. 
 
 ✔️ Checklist de controle de atividades concluídas do curso de Python Pro.
 
 
-#### Conteúdo (Meu andamento do Curso):
+### Conteúdo (Meu andamento do Curso):
 
 
 ## 1.	Programação Procedural
