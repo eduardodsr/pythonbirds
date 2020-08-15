@@ -41,6 +41,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 
 ### 1.1.	Introdução ✔️ 
 
+Nesse capítulo você vai conferir a motivação do curso, ou seja, como o jogo ficará após a implementação. Logo depois você vai aprender como instalar o Python em seu sistema operacional, editar código e fazer pequenos testes no console.
+
 1.1.1.	Motivação ✔️ 
 
 1.1.2.	Instalação Windows ✔️ 
@@ -54,6 +56,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 1.1.6.	Pycharm IDE ✔️ 
 
 ### 1.2.	Tipos Básicos ✔️ 
+
+Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conjunto básicos de classes que serve para modelar o seu programa, como números e palavras.
 
 1.2.1.	Tipo Inteiro ✔️ 
 
