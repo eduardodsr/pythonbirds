@@ -37,9 +37,9 @@ Término:
 
 ## 1.	Programação Procedural
 
-### 1.1.	Introdução ✔️ 
-
 Nessa seção você vai aprender programação procedural. Esse paradigma consiste em você definir a resolução de um problema, passo a passo, de forma linear. Funciona como uma receita culinária, onde cada etapa é definida exatamente uma depois da outra.
+
+### 1.1.	Introdução ✔️ 
 
 1.1.1.	Motivação ✔️ 
 
