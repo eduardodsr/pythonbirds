@@ -7,7 +7,7 @@
 ## Python Birds
 
 
-### Código Fonte Original do Projeto Original:
+### Código Fonte do Projeto - Python Pro:
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
