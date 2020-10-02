@@ -5,9 +5,9 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.pythonbirds)
 
 ## Python Birds
-=============
 
-### Fonte do Projeto Original:
+
+### Código Fonte Original do Projeto Original:
 
 Powered by [Python Pro](http://adm.python.pro.br)
 
