@@ -28,18 +28,10 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 - Desenvolvider uma versão simplificada do jogo Angry Birds. 
 
-✔️ Checklist de controle de atividades concluídas do curso de Python Pro.
 
+### Conteúdo (To Do / CheckList do Curso de Python): [✔️| :x: ]
 
-### Cronograma do Curso:
-
-Início: 10/08/2020 
-
-Término: 
-
-
-### Conteúdo (Meu andamento do Curso de Python):
-
+ - Checklist de controle de atividades concluídas do curso de Python Pro.
 
 ## 1.	Programação Procedural
 
