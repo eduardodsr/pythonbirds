@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/pythonbirds)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.pythonbirds)
 
-##Python Birds
+## Python Birds
 =============
 
 ### Fonte do Projeto Original:
