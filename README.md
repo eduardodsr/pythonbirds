@@ -69,45 +69,45 @@ Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conj
 
 ### 1.3.	Containers e Iteração
 
-1.3.1.	String, Dir e Help
+1.3.1.	String, Dir e Help  ✔️ 
 
-1.3.2.	Lista e Range
+1.3.2.	Lista e Range  ✔️ 
 
-1.3.3.	Tupla e Id
+1.3.3.	Tupla e Id  ✔️ 
 
-1.3.4.	Acesso, Tamanho e Fatiamento
+1.3.4.	Acesso, Tamanho e Fatiamento  ✔️ 
 
-1.3.5.	While
+1.3.5.	While  ✔️ 
 
-1.3.6.	For
+1.3.6.	For  ✔️ 
 
-1.3.7.	Dicionários/Mapas
+1.3.7.	Dicionários/Mapas  ✔️ 
 
-1.3.8.	Iteração em Dicionário
+1.3.8.	Iteração em Dicionário  ✔️ 
 
 ### 1.4.	Modularização
 
-1.4.1.	Função e PEP 8
+1.4.1.	Função e PEP 8  ✔️ 
 
-1.4.2.	Parâmetros de Função
+1.4.2.	Parâmetros de Função  ✔️ 
 
-1.4.3.	Parâmetros Variáveis
+1.4.3.	Parâmetros Variáveis  ✔️ 
 
-1.4.4.	Módulo
+1.4.4.	Módulo  ✔️ 
 
-1.4.5.	Debug
+1.4.5.	Debug  ✔️ 
 
-1.4.6.	Import e __name__
+1.4.6.	Import e __name__  ✔️ 
 
-1.4.7.	Pacote
+1.4.7.	Pacote  ✔️ 
 
-1.4.8.	Docstring e Comentário
+1.4.8.	Docstring e Comentário  ✔️ 
 
-1.4.9.	Contagem de Caracteres com Lista
+1.4.9.	Contagem de Caracteres com Lista  ✔️ 
 
-1.4.10.	Contagem de Caracteres com Dicionário
+1.4.10.	Contagem de Caracteres com Dicionário  ✔️ 
 
-1.4.11.	Retrospectiva: Paradigma Procedural
+1.4.11.	Retrospectiva: Paradigma Procedural ✔️ 
 
 ## 2.	Orientação a Objetos
 
