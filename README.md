@@ -141,11 +141,11 @@ Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conj
 
 2.1.14.	Doctest ✔️
 
-2.1.15.	Implementação do Motor 
+2.1.15.	Implementação do Motor ✔️ 
 
-2.1.16.	Implementação da Direção 
+2.1.16.	Implementação da Direção ✔️
 
-2.1.17.	Implementação do Carro 
+2.1.17.	Implementação do Carro ✔️
 
 2.1.18.	Fase e Atores
 
