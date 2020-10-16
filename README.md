@@ -111,41 +111,41 @@ Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conj
 
 ## 2.	Orientação a Objetos
 
-### 2.1.	Classe e Composição
+### 2.1.	Classe e Composição ✔️
 
-2.1.1.	Git no Windows
+2.1.1.	Git no Windows ✔️
 
-2.1.2.	Git no Ubuntu
+2.1.2.	Git no Ubuntu ✔️
 
-2.1.3.	Git no Mac
+2.1.3.	Git no Mac ✔️
 
-2.1.4.	Github e Setup
+2.1.4.	Github e Setup ✔️
 
-2.1.5.	Classe
+2.1.5.	Classe ✔️
 
-2.1.6.	Commit e Push
+2.1.6.	Commit e Push ✔️
 
-2.1.7.	Método
+2.1.7.	Método ✔️
 
-2.1.8.	Atributo de Dado
+2.1.8.	Atributo de Dado ✔️
 
-2.1.9.	Atributo Complexo
+2.1.9.	Atributo Complexo ✔️
 
-2.1.10.	Atributo Dinâmico
+2.1.10.	Atributo Dinâmico ✔️
 
-2.1.11.	Atributo de Classe
+2.1.11.	Atributo de Classe ✔️
 
-2.1.12.	Método de Classe
+2.1.12.	Método de Classe ✔️
 
-2.1.13.	Composição
+2.1.13.	Composição ✔️
 
-2.1.14.	Doctest
+2.1.14.	Doctest ✔️
 
-2.1.15.	Implementação do Motor
+2.1.15.	Implementação do Motor 
 
-2.1.16.	Implementação da Direção
+2.1.16.	Implementação da Direção 
 
-2.1.17.	Implementação do Carro
+2.1.17.	Implementação do Carro 
 
 2.1.18.	Fase e Atores
 
