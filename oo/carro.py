@@ -96,9 +96,10 @@ Exemplo:
     >>> carro.calcular_direcao()
     'Oeste'
 """
+
 NORTE = 'Norte'
 SUL = 'Sul'
-LESTE: str = 'Leste'
+LESTE = 'Leste'
 OESTE = 'Oeste'
 
 class Direcao:
