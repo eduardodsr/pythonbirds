@@ -7,7 +7,7 @@ class Pessoa:
         self.filhos = list(filhos)
 
     def cumprimentar(self):
-        return f'Olá {id(self)}'
+        return f'Olá meu nome é {self.nome}'
 
     @staticmethod
     def metodo_estatico():
@@ -17,10 +17,21 @@ class Pessoa:
     def nome_e_atributos_de_classe(cls):
         return f'{cls} - olhos {cls.olhos}'
 
+# Criação da Herança, herdar todos os atributos da classe Pai
+class Homem(Pessoa):
+    def cumprimentar(self):
+        cumprimentar_da_classe = super().cumprimentar() # Sobrescrita de Método
+        return f'{cumprimentar_da_classe}. Aperto de mão'
+
+    # super() - vai acessar os elementos da classe Pai de Homem.
+
+class Mutante(Pessoa):
+    olhos = 3 # Sobrescrita de Atributo (classes filhas podem sobrescrever atributos de classes pai)
+
 
 if __name__ == '__main__':
-    eduardo = Pessoa(nome='Eduardo')
-    luciano = Pessoa(eduardo, nome='Luciano')
+    eduardo = Mutante(nome='Eduardo')
+    luciano = Homem(eduardo, nome='Luciano')
     print(Pessoa.cumprimentar(luciano))
     print(id(luciano))
     print(luciano.cumprimentar())
@@ -32,12 +43,19 @@ if __name__ == '__main__':
     del luciano.filhos # remover o atributo filhos
     luciano.olhos = 1
     del luciano.olhos
-    print(luciano.__dict__) # atributos de instância __dict__ de um objeto
-    print(eduardo.__dict__)
+    print(eduardo.__dict__) # atributos de instância __dict__ de um objeto
+    print(luciano.__dict__)
     print(Pessoa.olhos)
     print(luciano.olhos)
     print(eduardo.olhos)
     print(id(Pessoa.olhos), id(luciano.olhos), id(eduardo.olhos))
     print(Pessoa.metodo_estatico(), luciano.metodo_estatico())
     print(Pessoa.nome_e_atributos_de_classe(), luciano.nome_e_atributos_de_classe())
-
+    pessoa = Pessoa ('Anonimo')
+    print(isinstance(pessoa, Pessoa)) # Objeto Pessoa eh do tipo pessoa?
+    print(isinstance(pessoa, Homem)) # A pessoa eh um Homem?
+    print(isinstance(eduardo, Pessoa)) # eduardo pertence ao tipo Pessoa
+    print(isinstance(eduardo, Homem)) # eduardo eh do tipo Homem
+    print(eduardo.olhos)
+    print(luciano.cumprimentar())
+    print(eduardo.cumprimentar())

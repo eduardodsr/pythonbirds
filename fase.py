@@ -2,7 +2,6 @@
 from itertools import chain
 from atores import ATIVO
 
-
 VITORIA = 'VITORIA'
 DERROTA = 'DERROTA'
 EM_ANDAMENTO = 'EM_ANDAMENTO'
@@ -36,14 +35,13 @@ class Fase():
         self._porcos = []
         self._obstaculos = []
 
-
     def adicionar_obstaculo(self, *obstaculos):
         """
         Adiciona obstáculos em uma fase
 
         :param obstaculos:
         """
-        pass
+        self._obstaculos.extend(obstaculos)
 
     def adicionar_porco(self, *porcos):
         """
@@ -51,7 +49,7 @@ class Fase():
 
         :param porcos:
         """
-        pass
+        self._porcos.extend(porcos)
 
     def adicionar_passaro(self, *passaros):
         """
@@ -59,7 +57,7 @@ class Fase():
 
         :param passaros:
         """
-        pass
+        self._passaros.extend(passaros)
 
     def status(self):
         """
@@ -73,7 +71,12 @@ class Fase():
 
         :return:
         """
-        return EM_ANDAMENTO
+        if not self._possui_porco_ativo():
+            return VITORIA
+        elif self._possui_passaros_ativos():
+            return EM_ANDAMENTO
+        else:
+            return DERROTA
 
     def lancar(self, angulo, tempo):
         """
@@ -88,7 +91,6 @@ class Fase():
         """
         pass
 
-
     def calcular_pontos(self, tempo):
         """
         Lógica que retorna os pontos a serem exibidos na tela.
@@ -98,10 +100,21 @@ class Fase():
         :param tempo: tempo para o qual devem ser calculados os pontos
         :return: objeto do tipo Ponto
         """
-        pontos=[self._transformar_em_ponto(a) for a in self._passaros+self._obstaculos+self._porcos]
+        pontos = [self._transformar_em_ponto(a) for a in self._passaros + self._obstaculos + self._porcos]
 
         return pontos
 
     def _transformar_em_ponto(self, ator):
         return Ponto(ator.x, ator.y, ator.caracter())
 
+    def _possui_porco_ativo(self):
+        for porco in self._porcos:
+            if porco.status == ATIVO:
+                return True
+        return False
+
+    def _possui_passaros_ativos(self):
+        for passaro in self._passaros:
+            if passaro.status == ATIVO:
+                return True
+        return False
