@@ -147,45 +147,45 @@ Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conj
 
 2.1.17.	Implementação do Carro ✔️
 
-2.1.18.	Fase e Atores
+2.1.18.	Fase e Atores  ✔️
 
 ### 2.2.	Herança
 
-2.2.1.	Herança Simples
+2.2.1.	Herança Simples  ✔️
 
-2.2.2.	Unittest
+2.2.2.	Unittest  ✔️
 
-2.2.3.	Sobrescrita de Atributo
+2.2.3.	Sobrescrita de Atributo  ✔️
 
-2.2.4.	Sobrescrita de Método
+2.2.4.	Sobrescrita de Método  ✔️
 
-2.2.5.	Tipos de Teste
+2.2.5.	Tipos de Teste ✔️
 
-2.2.6.	List Comprehension
+2.2.6.	List Comprehension ✔️
 
-2.2.7.	Método Protegido
+2.2.7.	Método Protegido ✔️
 
-2.2.8.	Ciclo de Vida de Objetos
+2.2.8.	Ciclo de Vida de Objetos ✔️
 
-2.2.9.	Tratamento de Exceção
+2.2.9.	Tratamento de Exceção ✔️
 
-2.2.10.	Fase Completa
+2.2.10.	Fase Completa ✔️
 
-2.2.11.	Posição de Ator
+2.2.11.	Posição de Ator ✔️
 
-2.2.12.	Colisão entre Atores
+2.2.12.	Colisão entre Atores ✔️
 
-2.2.13.	Porco e Obstáculo
+2.2.13.	Porco e Obstáculo ✔️
 
-2.2.14.	Classe Pássaro
+2.2.14.	Classe Pássaro ✔️
 
-2.2.15.	Controle de Lançamento
+2.2.15.	Controle de Lançamento ✔️
 
-2.2.16.	Lançamento Vertical
+2.2.16.	Lançamento Vertical ✔️
 
-2.2.17.	Lancamento Horizontal
+2.2.17.	Lancamento Horizontal ✔️
 
-2.2.18.	Gran Finale
+2.2.18.	Gran Finale ✔️
 
-2.2.19.	Retrospectiva: Orientação a Objetos
+2.2.19.	Retrospectiva: Orientação a Objetos ✔️
 
